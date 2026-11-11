@@ -1,12 +1,24 @@
-# My-First-Project
-My first github practical project# My First Project
+# Student Calculator
 
-Hello! I am learning GitHub.
+## About
+My first python beginner project.
 
-I am a first-year B.Tech student.
+## Features
+-Addition
+-Subtraction
+-Multiplication
+-Divison
+-Divison by zero handling
+-Invalide input handling 
+-Repeat calculations
 
-## My Learning Goals
-- Python
-- HTML
-- CSS
-- JavaScript
+## Technologies Used
+-Python 3
+-Visual Studio Code
+
+## Copncepts Learned
+-Variable
+-Input and Output
+-if-elif-else
+-while loop 
+-Try-except
